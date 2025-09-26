@@ -26,7 +26,7 @@
         "on": true,
         "off": false
       },
-      "defaultVariant": "off"
+      "defaultVariant": "on"
     },
     "adHighCpu": {
       "description": "Triggers high cpu load in the ad service",
@@ -35,7 +35,7 @@
         "on": true,
         "off": false
       },
-      "defaultVariant": "off"
+      "defaultVariant": "on"
     },
     "adFailure": {
       "description": "Fail ad service",
@@ -94,7 +94,7 @@
         "on": 100,
         "off": 0
       },
-      "defaultVariant": "off"
+      "defaultVariant": "on"
     },
     "imageSlowLoad": {
       "description": "slow loading images in the frontend",
@@ -104,7 +104,7 @@
         "5sec": 5000,
         "off": 0
       },
-      "defaultVariant": "off"
+      "defaultVariant": "5sec"
     }
   }
 }
